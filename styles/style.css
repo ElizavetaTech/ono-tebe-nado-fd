@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 55px 54px 90px;
+  padding: 95px 54px 90px;
 }
 
 .header__menu {
@@ -76,7 +76,6 @@
   letter-spacing: 31px;
   text-transform: uppercase;
   padding: 155px 52px 34px;
-  z-index: 1;
 }
 
 .aligned-text {
